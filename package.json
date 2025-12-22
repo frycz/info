@@ -1,0 +1,28 @@
+{
+  "name": "@frycz/info",
+  "version": "1.0.0",
+  "description": "Ask questions in natural language and get concise, formatted responses directly in your terminal.",
+  "keywords": [
+    "ai",
+    "cli",
+    "info",
+    "quick-answers",
+    "claude",
+    "gemini"
+  ],
+  "license": "MIT",
+  "bin": {
+    "info": "./bin/info.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "prompts"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  }
+}
