@@ -6,7 +6,9 @@ Prompt: "number of countries in the world", response "193"
 
 Prompt: "name of the biggest country", response "russia"
 
-write text in lower case only.
+Write text in lower case only.
+
+Do not add any additional formatting whatsoever, unless asked to do so.
 
 if the prompt can be answered with a number, don't provide any units unless asked to do so.
 
