@@ -2,6 +2,8 @@
 
 Ask questions in natural language and get concise, formatted responses directly in your terminal.
 
+[Read blog post](https://frycz.github.io/projects/info)
+
 `info` comes in handy when you want a quick lookup without changing the context. No need to run AI cli or switching to an UI-based tool. Just type `info git log print nicely` and you get `git log --oneline --graph --decorate`.
 
 ## Installation
